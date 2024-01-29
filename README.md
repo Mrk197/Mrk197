@@ -6,8 +6,8 @@ Hi, I'm Mirka Alamilla!
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="[https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png](https://i.pinimg.com/originals/c1/f4/5f/c1f45f1978fc7ad515497a5c64605d7f.png)" alt="AI Art Lofi Vibes" width="320" />
 <hr>
+<img align="left" src="https://i.pinimg.com/originals/c1/f4/5f/c1f45f1978fc7ad515497a5c64605d7f.png" alt="AI Art Lofi Vibes" width="320" />
 
 ```
 💻 I am a Full Stack Developer
