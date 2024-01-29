@@ -3,7 +3,7 @@ Hi, I'm Mirka Alamilla!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
@@ -22,7 +22,7 @@ Hi, I'm Mirka Alamilla!
 ```
 </div>
 <hr>
-
+<br>
 ### 👨‍💻 Programming Languages
 
 <p>
