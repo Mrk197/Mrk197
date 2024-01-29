@@ -10,6 +10,7 @@ Hi, I'm Mirka Alamilla!
 <div>  
 <img align="left" src="https://i.pinimg.com/originals/c1/f4/5f/c1f45f1978fc7ad515497a5c64605d7f.png" alt="AI Art Lofi Vibes" height="250" />
 <br>
+
 ```
 💻 I am a Full Stack Developer
 🔭 I’m currently working on a mobile app.
