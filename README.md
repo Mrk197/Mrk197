@@ -24,7 +24,6 @@ Hi, I'm Mirka Alamilla!
 </div>
 <br>
 <hr>
-<br>
 
 ### 👨‍💻 Programming Languages
 
