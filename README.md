@@ -7,6 +7,7 @@ Hi, I'm Mirka Alamilla!
 </p>
 
 <hr>
+<div>  
 <img align="left" src="https://i.pinimg.com/originals/c1/f4/5f/c1f45f1978fc7ad515497a5c64605d7f.png" alt="AI Art Lofi Vibes" width="320" />
 
 ```
@@ -19,6 +20,7 @@ Hi, I'm Mirka Alamilla!
 ⚡ Fun fact: I 💖 to code and to smile.
 😄 I know, sometimes is difficult do both at te same time.
 ```
+</div>
 <hr>
 
 ### 👨‍💻 Programming Languages
