@@ -32,14 +32,14 @@ Hi, I'm Mirka Alamilla!
     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=sql&logoColor=white">
 
 ### 🧰 Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%23225E8D.svg?logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React Native-%23025E8C.svg?logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </p>
 
@@ -48,7 +48,7 @@ Hi, I'm Mirka Alamilla!
 <p>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23327FC7.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-32CD32.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23327FC7.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%23327FC7.svg?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
