@@ -40,7 +40,7 @@ Hi, I'm Mirka Alamilla!
     <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%23225E8D.svg?logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React Native-%23025E8C.svg?logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23767BB4.svg?logo=bootstrap&logoColor=563D7C"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8A2BE2.svg?logo=bootstrap&logoColor=563D7C"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
