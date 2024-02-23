@@ -3,7 +3,7 @@ Hi, I'm Mirka Alamilla!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;learning%20and%20coding&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;learning%20and%20coding&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
@@ -15,8 +15,8 @@ Hi, I'm Mirka Alamilla!
 💻 I am a Full Stack Developer
 🔭 I’m currently working on a mobile app.
 🌱 I’m currently learning React Native
-👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-🌟 Main languages: JavaScript, NodeJS, 
+👯 I’m looking to collaborate with Fullstack and Mobile Developers.
+🌟 Main languages: JavaScript, HTML, SQL.
 🚩 More interested in a back end development.
 ⚡ Fun fact: I 💖 to code and to smile.
 😄 I know, sometimes is difficult do both at te same time.
